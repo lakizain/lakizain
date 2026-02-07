@@ -38,43 +38,5 @@ I'm a passionate software engineering undergraduate with hands-on experience in 
 
 ---
 
-## 💼 Experience
-
-### Web & Software Developer — CR-X  
-📍 Kurunegala | 🗓️ 2024 – Present
-
-- Developed web applications using React / Next.js and Node.js  
-- Built responsive and user-friendly interfaces  
-- Created Java applications for internal projects  
-- Worked with MySQL databases  
-- Collaborated with team members to enhance existing systems  
-
----
-
-## 🎓 Education
-- **BSc (Hons) in Software Engineering**  
-  *Birmingham City University, UK* (2025 – Present)
-
-- **Higher Diploma in Software Engineering**  
-  *Java Institute for Advanced Technology* (2023 – Present)
-
-- **G.C.E. Ordinary Level**  
-  *Mt. Weeraparakrama National College* (2022)
-
----
-
-## 🌍 Languages
-- Sinhala – Proficient  
-- English – Intermediate  
-- Tamil – Beginner  
-
----
-
-## 📫 Connect With Me
-- 📧 Email: lakshansachintha410@gmail.com  
-- 📞 Phone: 0785704710  
-- 🌐 GitHub: [https://github.com/lakizain](https://github.com/lakizain)
-
----
 
 ⭐️ *Feel free to explore my repositories and connect with me!*
