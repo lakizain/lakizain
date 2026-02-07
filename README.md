@@ -1,38 +1,38 @@
-# 👋 Hi, I'm Lakshan Sachintha
+# Hi there 👋, I'm Lakshan
 
-💻 Full Stack Developer from Sri Lanka 🇱🇰  
-🚀 Passionate about Web Development & Clean UI  
-🎯 Always learning new technologies
+I'm a **software engineering student** and a tech enthusiast.  
+I love coding, learning new technologies, and building projects.  
 
 ---
 
-## 💻 Languages I Use
+## 🔭 About Me
+- 🌱 I’m currently learning **Front-End Development** & **Cloud Security**
+- 💻 I mostly code in **Java, Python, HTML/CSS, JS**
+- 🎯 Goal: Become a full-stack developer for Android & iOS apps
+- ⚡ Fun fact: I love solving challenging coding problems
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lakizain&layout=compact&theme=tokyonight)
+---
+
+## 🛠️ My Tech Stack
+- **Languages:** Java, Python, JavaScript, HTML, CSS
+- **Frameworks:** Bootstrap, React (learning)
+- **Tools:** Git, GitHub, VS Code, Kali Linux
+- **Database:** MySQL, HeidiSQL
 
 ---
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lakizain&show_icons=true&theme=tokyonight)
+![Lakshan's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&count_private=true&hide=contribs)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight)
 
 ---
 
-## 🔥 GitHub Streak
+## 📫 Connect with me
 
-![GitHub Streak](https://streak-stats.demolab.com?user=lakizain&theme=tokyonight)
-
----
-
-## 🛠️ Tech Stack
-
-![HTML](https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-blue?style=for-the-badge&logo=typescript&logoColor=white)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Lakshan-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/YOUR_LINKEDIN)  
+[![Fiverr](https://img.shields.io/badge/Fiverr-Lakshan-green?style=flat-square&logo=fiverr)](https://www.fiverr.com/YOUR_FIVERR)  
 
 ---
 
-## 👀 Profile Views
-
-![Profile Views](https://komarev.com/ghpvc/?username=lakizain&color=blue)
