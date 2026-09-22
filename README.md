@@ -1,4 +1,4 @@
-# 👋 Hi, I'm L C Sachintha Bandara
+# 👋 Hi, I'm LAKSHAN
 
 ### 💻 Web & Software Developer | Software Engineering Undergraduate
 
